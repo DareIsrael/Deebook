@@ -6,7 +6,7 @@ function Header() {
         <div className="head">
         <div className="header">
             <div className="header_1">
-                <img src="Deebook.png"></img>
+                <img src="Dee2.png"></img>
                 <input placeholder=" 🔍 Search Deebook"></input>
             </div>
             <div className="header_2">
